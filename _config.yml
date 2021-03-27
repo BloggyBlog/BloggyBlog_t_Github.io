@@ -1,11 +1,11 @@
 # Site
 title:              SolarSoul
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'De beste mini-onderneming die er bestaat, het kan niet beter.'
+description:        "Koop zonnepanelen van hoge kwaliteit voor de helft van de prijs!"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+logo:               'assets/img/solarsoulklein.png'
+background:         'assets/img/zonnigezonnepanelen.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://taylantatli.github.io/Moon
